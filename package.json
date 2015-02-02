@@ -1,0 +1,19 @@
+{
+  "name": "shopping_list",
+  "version": "0.0.0",
+  "description": "help yah with some shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidamitchell/shopping_list"
+  },
+  "author": "David Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidamitchell/shopping_list/issues"
+  },
+  "homepage": "https://github.com/davidamitchell/shopping_list"
+}
